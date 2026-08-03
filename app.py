@@ -18,8 +18,7 @@ st.set_page_config(
     page_icon="🎭",
     layout="wide",
     initial_sidebar_state="expanded",
-)
-
+) 
 st.markdown("""
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Bangers&display=swap');
