@@ -33,7 +33,7 @@ st.markdown("""
              font-family:'Bangers',cursive; letter-spacing:2px; }
   .hero p  { color:#64748b; font-size:14px; margin:0; }
 
-  .meme-card {
+  .meme-card {  
     background:#0b0d18; border:1px solid #1e2040;
     border-radius:12px; padding:16px; margin:8px 0; text-align:center;
   }
