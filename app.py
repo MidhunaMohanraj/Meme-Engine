@@ -12,7 +12,6 @@ from meme_engine import (
     fetch_trending, generate_meme_caption, generate_batch_captions,
     render_meme, MemeCaption, TrendingTopic,
 )
-
 st.set_page_config(
     page_title="AI Meme Generator", 
     page_icon="🎭",
