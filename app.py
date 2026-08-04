@@ -14,7 +14,7 @@ from meme_engine import (
 st.set_page_config(
     page_title="AI Meme Generator", 
     page_icon="🎭",
-    layout="wide",
+    layout="wide", 
     initial_sidebar_state="expanded",
 ) 
 st.markdown("""
