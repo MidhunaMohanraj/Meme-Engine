@@ -5,7 +5,7 @@ import sys, io, json, random
 import streamlit as st 
 from pathlib import Path  
 from datetime import datetime
-sys.path.insert(0, str(Path(__file__).parent / "src"))
+sys.path.insert(0, str(Path(__file__).parent / "src")) 
 from meme_engine import (
     MEME_TEMPLATES, MEME_STYLES, MEME_CATEGORIES,
     fetch_trending, generate_meme_caption, generate_batch_captions,
